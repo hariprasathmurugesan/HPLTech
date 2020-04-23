@@ -263,7 +263,7 @@ hr.light-100{
     padding: 1.2rem;
   }
 }
-@media (max-width: 576px) {
+@media (max-width: 740px) {
   .carousel-caption{
     top:40%;
   }
@@ -292,6 +292,20 @@ hr.light-100{
   .social a{
     font-size: 2em;
     padding: 0.7rem;
+  }
+
+  .vl{
+    border: none;
+    height: 0px;
+    
+  
+  }
+
+  .btn-outline-secondary{
+    position: absolute;
+    left: 13px;
+    top: -1px;
+
   }
 }
 
